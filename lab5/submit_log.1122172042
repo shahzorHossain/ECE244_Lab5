@@ -1,0 +1,37 @@
+Submitting assignment 5 from p125.ecf.utoronto.ca
+Submit will be run on the files specified by the user
+Checking for the expected files in the current directory
+btree
+Attempting to build your code.  Make output follows:
+==================================================================
+------------------------------------------------------------------
+The build appears to have failed.  See the make output for
+more information about the details of the error.
+------------------------------------------------------------------
+This assignment did not compile.
+It will not receive any functionality marks but will still be marked for style.
+Do want to submit anyways? (y/n): y
+
+Submitting files
+
+Verifying submission
+submitece244f -l 5
+total 84
+-rw-r----- 1 submit ece244f 30043 Nov 22 17:21 btree
+-rw-r----- 1 submit ece244f   668 Nov 22 15:36 DBentry.cpp
+-rw-r----- 1 submit ece244f   636 Nov 22 15:36 DBentry.h
+-rw-r----- 1 submit ece244f  4321 Nov 22 15:36 Main.cpp
+-rw-r----- 1 submit ece244f  2268 Nov 22 15:36 submit_log.1122153631
+-rw-r----- 1 submit ece244f  1741 Nov 22 16:23 submit_log.1122162138
+-rw-r----- 1 submit ece244f   704 Nov 22 17:16 submit_log.1122171610
+-rw------- 1 submit ece244f     0 Nov 22 17:17 submit_log.1122171710
+-rw-r----- 1 submit ece244f   704 Nov 22 17:20 submit_log.1122172009
+-rw-r----- 1 submit ece244f  1904 Nov 22 15:36 TreeDB.cpp
+-rw-r----- 1 submit ece244f   706 Nov 22 15:36 TreeDB.h
+-rw-r----- 1 submit ece244f  4883 Nov 22 15:36 TreeNode.cpp
+-rw-r----- 1 submit ece244f   782 Nov 22 15:36 TreeNode.h
+
+All filesizes match. All timestamps match submission time.
+
+Submission was successful
+
